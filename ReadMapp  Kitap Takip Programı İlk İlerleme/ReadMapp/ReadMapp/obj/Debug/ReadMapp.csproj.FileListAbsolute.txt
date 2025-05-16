@@ -1,0 +1,32 @@
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\bin\Debug\ReadMapp.exe.config
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\bin\Debug\ReadMapp.exe
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\bin\Debug\ReadMapp.pdb
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.csproj.AssemblyReference.cache
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.KAYIT.resources
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.Properties.Resources.resources
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.csproj.GenerateResource.cache
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.csproj.CoreCompileInputs.cache
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.exe
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.pdb
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.Form2.resources
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.secimekrani.resources
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.Form5.resources
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.Form6.resources
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.favorilerim.resources
+C:\Users\Rabi\source\repos\ReadMapp\ReadMapp\obj\Debug\ReadMapp.Form7.resources
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\bin\Debug\ReadMapp.exe.config
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\bin\Debug\ReadMapp.exe
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\bin\Debug\ReadMapp.pdb
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.csproj.AssemblyReference.cache
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.kayit.resources
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.Form2.resources
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.secimekrani.resources
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.favorilerim.resources
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.Form5.resources
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.Form6.resources
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.Form7.resources
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.Properties.Resources.resources
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.csproj.GenerateResource.cache
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.csproj.CoreCompileInputs.cache
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.exe
+C:\Users\Rabi\OneDrive\Desktop\ReadMapp  Kitap Takip Programı\ReadMapp\ReadMapp\obj\Debug\ReadMapp.pdb
