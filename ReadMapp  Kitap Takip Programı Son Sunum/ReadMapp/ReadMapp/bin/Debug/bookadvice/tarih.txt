@@ -1,0 +1,20 @@
+Sapiens,Yuval Noah Harari,İnsan türünün kısa tarihi.
+İmparatorluk,Ryszard Kapuscinski,SSCB'nin çöküş süreci.
+Şu Çılgın Türkler,Turgut Özakman,Kurtuluş Savaşı'nın destansı anlatımı.
+Nutuk,Mustafa Kemal Atatürk,Türkiye Cumhuriyeti'nin kuruluş belgesi.
+Osmanlı'nın Şifreleri,Erhan Afyoncu,Osmanlı tarihinden ilginç detaylar.
+Kısa Dünya Tarihi,J.M. Roberts,Dünya tarihine genel bakış.
+İstanbul'un Gizli Tarihi,Pelin Çift,Şehrin bilinmeyen hikayeleri.
+Ortaçağ,Umberto Eco,Ortaçağ Avrupası'nın kapsamlı portresi.
+Kayıp Aydınlanma,S. Frederick Starr,Orta Asya'nın bilim tarihi.
+Tüfek, Mikrop ve Çelik,Jared Diamond,Uygarlıkların coğrafi temelleri.
+Haçlı Seferleri Tarihi,Steven Runciman,Haçlı seferlerinin otorite kaynağı.
+Bizans,Judith Herrin,Bizans İmparatorluğu'nun kültürel tarihi.
+Devlet-i Aliyye,Halil İnalcık,Osmanlı tarihine dair temel eser.
+Kısa Türkiye Tarihi,Kemal Karpat,Modern Türkiye'nin oluşumu.
+1453,Roger Crowley,İstanbul'un fethinin detaylı anlatımı.
+İmparatorluğun Son Nefesi,İlber Ortaylı,Osmanlı'nın son dönemi.
+Tarih Üzerine,Marc Bloch,Tarih metodolojisi üzerine klasik.
+Büyük Oyun,Peter Hopkirk,Orta Asya'da İngiliz-Rus rekabeti.
+Türklerin Tarihi,İlber Ortaylı,Türklerin dünya tarihindeki yeri.
+Silahlara Veda,Ernest Hemingway,I. Dünya Savaşı'nın edebi tanıklığı.

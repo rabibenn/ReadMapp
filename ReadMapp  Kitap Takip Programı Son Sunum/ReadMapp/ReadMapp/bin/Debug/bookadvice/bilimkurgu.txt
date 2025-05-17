@@ -1,0 +1,20 @@
+Dune,Frank Herbert,Çöl gezegeni Arrakis'in politik ve ekolojik mücadelesi.
+1984,George Orwell,Totaliter bir distopyada bireysel direniş.
+Fahrenheit 451,Ray Bradbury,Kitapların yasak olduğu bir gelecek.
+Otostopçunun Galaksi Rehberi,Douglas Adams,Mizahi bir uzay macerası.
+Ben, Robot,Isaac Asimov,Robot etiği ve üç robot yasası.
+Yeni Dünya,Aldous Huxley,Genetik mühendislikle şekillenmiş bir toplum.
+Marslı,Andy Weir,Mars'ta mahsur kalan bir astronotun hayatta kalma mücadelesi.
+Üç Cisim Problemi,Cixin Liu,Çin kültürüyle harmanlanmış sert bilim kurgu.
+Solaris,Stanislaw Lem,İnsan bilincini sorgulatan bir okyanus gezegeni.
+Vakıf,Isaac Asimov,Galaktik bir imparatorluğun çöküşü ve bilimin kurtarıcı rolü.
+Cesur Yeni Dünya,Aldous Huxley,Biyolojik sınıflandırmaya dayalı distopik toplum.
+Androidler Elektrikli Koyun Düşler mi?,Philip K. Dick,Yapay zeka ve insanlık sorgulaması.
+Hiçbir Yerden Haberler,Neal Stephenson,Siber uzayın keşfi ve hack kültürü.
+Karanlığın Sol Eli,Ursula K. Le Guin,Cinsiyetsiz bir toplumun sosyal dinamikleri.
+Ender'in Oyunu,Orson Scott Card,Yetenekli bir çocuğun uzay savaşları eğitimi.
+Metro 2033,Dmitry Glukhovsky,Nükleer savaş sonrası metroda hayatta kalma mücadelesi.
+Altered Carbon,Richard K. Morgan,Bellek transferiyle ölümsüzlüğün keşfi.
+Annihilation,Jeff VanderMeer,Gizemli ve tehlikeli bir bölgeye keşif gezisi.
+The Left Hand of Darkness,Ursula K. Le Guin,Cinsiyet değiştiren bir ırkla diplomatik temas.
+Snow Crash,Neal Stephenson,Siberpunk dünyasında dil virüsü tehdidi.

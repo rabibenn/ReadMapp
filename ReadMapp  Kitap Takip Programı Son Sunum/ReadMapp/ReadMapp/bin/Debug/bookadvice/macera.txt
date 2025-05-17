@@ -1,0 +1,20 @@
+Robinson Crusoe,Daniel Defoe,Issız bir adada hayatta kalma mücadelesi.
+Define Adası,Robert Louis Stevenson,Korsanlar ve hazine avı.
+İki Yıl Okul Tatili,Jules Verne,Öğrencilerin ıssız adadaki maceraları.
+Tom Sawyer,Mark Twain,Mississippi'de bir çocuğun maceraları.
+Moby Dick,Herman Melville,Kaptan Ahab'ın beyaz balina takıntısı.
+Kumarbaz,Dostoyevski,Kumar masalarında kaybolan bir hayat.
+Monte Kristo Kontu,Alexandre Dumas,İntikam ve hazine avı.
+Gulliver'in Gezileri,Jonathan Swift,Fantastik diyarlara yolculuk.
+Dünyanın Merkezine Yolculuk,Jules Verne,Yer altı dünyasının keşfi.
+İnci,John Steinbeck,Yoksul bir dalgıcın hazine bulma umudu.
+Beyaz Diş,Jack London,Vahşi doğada hayatta kalma mücadelesi.
+Huckleberry Finn,Mark Twain,Mississippi Nehri'nde kaçış ve özgürlük.
+Tarzan,Edgar Rice Burroughs,Ormanda büyüyen insanın hikayesi.
+Denizler Altında 20.000 Fersah,Jules Verne,Kaptan Nemo'nun denizaltı maceraları.
+Kızıl Veba,Jack London,Salgın sonrası dünyada hayatta kalma.
+Altın Böcek,Edgar Allan Poe,Gizemli bir hazine haritası.
+Peter Pan,J.M. Barrie,Hiç büyümeyen çocuğun maceraları.
+Kaptan Grant'ın Çocukları,Jules Verne,Dünya çapında bir arama macerası.
+Korkusuz Kaptanlar,Rudyard Kipling,Denizde hayatta kalma mücadelesi.
+Sandokan,Emilio Salgari,Malezya açıklarında korsan maceraları.

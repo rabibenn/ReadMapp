@@ -1,0 +1,20 @@
+Yüzüklerin Efendisi,J.R.R. Tolkien,Orta Dünya'nın epik destanı.
+Harry Potter Serisi,J.K. Rowling,Büyücülük okulundaki maceralar.
+Taht Oyunları,George R.R. Martin,Westeros'ta iktidar mücadelesi.
+Hobbit,J.R.R. Tolkien,Beklenmedik bir yolculuğa çıkan hobbit.
+Narnia Günlükleri,C.S. Lewis,Sihirli dolaptan geçilen fantastik dünya.
+Yerdeniz Büyücüsü,Ursula K. Le Guin,Büyücü Ged'in olgunlaşma hikayesi.
+Kralkatili Güncesi,Patrick Rothfuss,Efsanevi katil Kvothe'nin hikayesi.
+Sissoylu,Brandon Sanderson,Mistik güçlerle donatılmış bir dünya.
+Ejderha Mızrağı,Margaret Weis,Klasik fantazi evreninde macera.
+Karanlık Kule,Stephen King,Roland'ın karanlık kuleye yolculuğu.
+Percy Jackson,Rick Riordan,Mitolojik yaratıklarla dolu modern dünya.
+Cadılar,Terry Pratchett,Diskdünya evreninden mizahi fantazi.
+Buz ve Ateşin Şarkısı,George R.R. Martin,Politik entrikalarla dolu fantazi.
+Alacakaranlık,Stephenie Meyer,Vampirler ve kurtadamlar arasında aşk.
+Kılıçtan Taç,Joe Abercrombie,Karanlık ve gerçekçi fantazi.
+Fırtına Işığı Arşivi,Brandon Sanderson,Mistik fırtınalarla şekillenen dünya.
+Witcher Serisi,Andrzej Sapkowski,Canavar avcısı Geralt'ın maceraları.
+Kızıl Üniversite,Soman Chainani,Büyülü bir okulda iyilik ve kötülük savaşı.
+Kan ve Kül,Jennifer L. Armentrout,Melekler ve iblisler arasında kalan kız.
+Gölgeler Şehri,Cassandra Clare,Gölgeavcıların gizli dünyası.

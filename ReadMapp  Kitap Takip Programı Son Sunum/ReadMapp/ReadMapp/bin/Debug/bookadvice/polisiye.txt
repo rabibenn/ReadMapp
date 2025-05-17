@@ -1,0 +1,20 @@
+Sherlock Holmes Serisi,Arthur Conan Doyle,Dedektiflik edebiyatının ikonik karakteri.
+Cinayetler Oteli,Agatha Christie,Kapalı bir mekanda işlenen cinayetler.
+Da Vinci Şifresi,Dan Brown,Tarihi sırlar etrafında örülmüş gerilim.
+Kara Kutu,Ahmet Ümit,Polisiye türünde modern bir Türk klasiği.
+Kayıp Sembol,Dan Brown,Masonik sembollerle örülü bir gerilim.
+Psiko,Robert Bloch,Sinemaya da uyarlanan psikolojik gerilim başyapıtı.
+İstanbul Hatırası,Ahmet Ümit,İstanbul'un tarihi dokusunda işlenen cinayetler.
+Gizli Düşman,Agatha Christie,İngiliz dedektif Hercule Poirot'nun ilk macerası.
+Kartal Gözü,Craig Johnson,Vahşi batıda geçen modern bir polisiye.
+Ejderha Dövmeli Kız,Stieg Larsson,İsveç noir'ının unutulmaz eseri.
+Körlük,Jose Saramago,Toplumsal çöküşü anlatan alegorik bir polisiye.
+Patasana,Ahmet Ümit,Arkeolojik bir gizem ve cinayetler.
+Şeytan Ayetleri,Salman Rushdie,Din ve kimlik üzerine polisiye kurgu.
+Kayıp Kız,Gillian Flynn,Psikolojik gerilim türünün modern klasiği.
+Kadınlar,Charles Bukowski,Suç dünyasının çarpıcı portresi.
+Sis ve Gece,Ahmet Ümit,Mitolojik unsurlarla bezeli bir cinayet romanı.
+Zamanın Kıyısındaki Kadın,Diana Gabaldon,Tarihi polisiye ve aşkın kesişimi.
+Dedektif,Rodolfo Martínez,İspanyol polisiyesinden seçkin bir örnek.
+Kırmızı Pazartesi,Gabriel Garcia Marquez,Kaderini bile bile ölüme giden bir adamın hikayesi.
+Kızıl Nehirler,Jean-Christophe Grangé,Fransa'da işlenen ritüel cinayetler.

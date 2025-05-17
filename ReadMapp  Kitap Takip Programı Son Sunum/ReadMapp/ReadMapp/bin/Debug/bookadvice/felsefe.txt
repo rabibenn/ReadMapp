@@ -1,0 +1,20 @@
+Devlet,Platon,İdeal toplum düzenine dair temel eser.
+Böyle Buyurdu Zerdüşt,Nietzsche,Üstinsan kavramını işleyen şiirsel felsefe.
+Bulant,Jean-Paul Sartre,Varoluşçuluğun edebi tezahürü.
+Felsefenin Temel İlkeleri,Georges Politzer,Marksist felsefeye giriş.
+Yabancı,Albert Camus,Absürdizm üzerine kurulu roman.
+Sokrates'in Savunması,Platon,Felsefi düşünce uğruna ölümü göze almak.
+İtiraflar,Augustinus,Dini felsefenin otobiyografik eseri.
+Toplum Sözleşmesi,Rousseau,Siyasi felsefenin temel metinlerinden.
+Ethica,Spinoza,Panteist felsefenin sistematik ifadesi.
+Felsefe Tarihi,Ahmet Cevizci,Felsefe tarihine kapsamlı bakış.
+Küçük Prens,Antoine de Saint-Exupéry,Çocuk masalı formunda derin felsefi sorgulamalar.
+Dünyayı Değiştiren Düşünürler,Sadık Usta,Felsefe tarihine sosyalist perspektif.
+Zaman ve Başka,Emmanuel Levinas,Etik felsefesinin önemli metni.
+Felsefeye Giriş,Takiyettin Mengüşoğlu,Temel felsefi kavramların açıklaması.
+Felsefenin Kısa Tarihi,Nigel Warburton,Felsefeye kolay başlangıç.
+Varoluşçuluk,Jean-Paul Sartre,Varoluşçuluğun manifestosu.
+İyinin ve Kötünün Ötesinde,Nietzsche,Geleneksel ahlak eleştirisi.
+Felsefe Nedir?,Gilles Deleuze,Postyapısalcı felsefenin temel sorusu.
+Metafizik,Aristoteles,Varlık felsefesinin kurucu metni.
+Meditasyonlar,Descartes,Kartezyen felsefenin doğuşu.

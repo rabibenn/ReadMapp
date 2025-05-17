@@ -1,0 +1,13 @@
+1984,George Orwell,Distopya,Totaliter rejim üzerine harika bir roman.
+Hayvan Çiftliği,George Orwell,Siyasi,Siyasi taşlama ve metaforlarla dolu.
+Bülbülü Öldürmek,Harper Lee,Klasik,Irkçılık ve adalet temalı.
+Kürk Mantolu Madonna,Sabahattin Ali,Dram,İçsel yolculuk ve aşk.
+Tutunamayanlar,Oğuz Atay,Modern,Varoluşsal sorgulamalarla dolu etkileyici bir roman.
+Saatleri Ayarlama Enstitüsü,Ahmet Hamdi Tanpınar,Modern,Zaman ve birey arasındaki çatışmaları ele alır.
+Martı,Richard Bach,Felsefi,Kendi yolunu seçmenin özgürlüğü üzerine bir hikaye.
+Uçurtma Avcısı,Khaled Hosseini,Dram,Dostluk, ihanet ve kefaret üzerine dokunaklı bir anlatı.
+Sefiller,Victor Hugo,Klasik,Toplum, adalet ve insanlık üzerine derin bir eser.
+Cesur Yeni Dünya,Aldous Huxley,Distopya,Bilim ve toplum üzerine çarpıcı bir gelecek kurgusu.
+Beyaz Zambaklar Ülkesinde,Grigory Petrov,Toplum,Bir milletin yeniden doğuş hikayesi.
+İnsan Ne ile Yaşar?,Lev Tolstoy,Felsefi,İnsan ruhunun derinliklerine inen kısa hikayeler.
+Körlük,José Saramago,Distopya,Toplumun ahlaki çöküşünü simgeleyen çarpıcı bir roman.
